@@ -16,7 +16,7 @@ $31=92.030 (Угол psi)
 
 После изменения параметров необходимо сбросить arduino аппаратно.
 
-Полный список параметров LaserGRBL:\n
+Полный список параметров LaserGRBL:/r/n
 $0=10 (Step pulse time)
 $1=254 (Step idle delay)
 $2=0 (Step pulse invert)
