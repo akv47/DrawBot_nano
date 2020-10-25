@@ -8,7 +8,7 @@
 
 Для компиляции необходимо использовать легкое и быстрое ядро GyverCore https://alexgyver.ru/gyvercore/ (разработаное AlexGyver и Egor 'Nich1con' Zaharov), так как на оригинальном ядре Nano_V3 (ATmega328p) размер бинарного файла превысит размер флеш-памяти контроллера. 
 
-[![Смотреть демо](https://i9.ytimg.com/vi/JfaiAnQvb0s/mq1.jpg?sqp=CPT4xfwF&rs=AOn4CLBFhgLUj4ijwR37GuA6eKPj1hMtVw)](https://youtu.be/JfaiAnQvb0s)
+[![Смотреть демо](https://github.com/akv47/DrawBot_nano/blob/main/pic/video.jpg)](https://youtu.be/JfaiAnQvb0s)
 
 Добавлены параметры:
 
