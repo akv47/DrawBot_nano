@@ -4,11 +4,16 @@
 
 Добавлена возможность калибровки DrawBot командой "$M". Калибровка производиться из положения плеча под углом 45 градусов, при этом высчитываются и сохраняются параметры theta ($30) и psi ($31).
 
-[![Калибровка](https://github.com/akv47/DrawBot_nano/blob/main/pic/calibration.jpg)]
+[![Калибровка](https://github.com/akv47/DrawBot_nano/blob/main/pic/calibration.jpg)
 
 Для компиляции необходимо использовать легкое и быстрое ядро GyverCore https://alexgyver.ru/gyvercore/ (разработаное AlexGyver и Egor 'Nich1con' Zaharov), так как на оригинальном ядре Nano_V3 (ATmega328p) размер бинарного файла превысит размер флеш-памяти контроллера. 
 
 [![Смотреть демо](https://github.com/akv47/DrawBot_nano/blob/main/pic/video.jpg)](https://youtu.be/JfaiAnQvb0s)
+
+Коробка для размещения платы управления в формате stl (под печать на 3D принтере).
+
+[![Короб](https://github.com/akv47/DrawBot_nano/blob/main/Box%20shield%20v4%20STL/Box%20all%20parts.stl)
+
 
 Добавлены параметры:
 
