@@ -12,7 +12,7 @@
 
 Коробка для размещения платы управления в формате stl (под печать на 3D принтере).
 
-[![Короб](https://github.com/akv47/DrawBot_nano/blob/main/Box%20shield%20v4%20STL/Box%20all%20parts.stl)
+[![Короб](https://github.com/akv47/DrawBot_nano/blob/main/pic/Box%20shield%20v4.jpg)(https://github.com/akv47/DrawBot_nano/blob/main/Box%20shield%20v4%20STL/Box%20all%20parts.stl)
 
 
 Добавлены параметры:
